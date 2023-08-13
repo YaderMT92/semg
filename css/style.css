@@ -14,9 +14,6 @@
     z-index: 99;
 }
 
-.prueba1 a{
-	all: unset;
-}
 
 /*** Spinner ***/
 #spinner {
